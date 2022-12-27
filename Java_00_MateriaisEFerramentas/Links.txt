@@ -1,6 +1,3 @@
-Apostila de Java e Orientação a Objetos Alura
-https://www.alura.com.br/apostila-java-orientacao-objetos
-
 Apostila de Java e Orientação a Objetos K19
 https://github.com/dsfb/Apostilas_K19/blob/master/Java/k19-k11-orientacao-a-objetos-em-java.pdf
 
