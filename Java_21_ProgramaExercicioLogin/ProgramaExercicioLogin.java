@@ -15,7 +15,7 @@ restando apenas uma última chance.
 
 package Java_21_ProgramaExercicioLogin;
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class ProgramaExercicioLogin {
 
