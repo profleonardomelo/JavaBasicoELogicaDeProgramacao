@@ -2,19 +2,19 @@
 Usando JOptionPane, elabore uma classe que receba o nome de um produto
 e o seu valor. O desconto deve ser calculado conforme o valor
 fornecido pela Tabela presente no arquivo 
-"ProgramaExercicioCalcularValorDoProdutoComDescontoPorFaixaDeValor.png". 
+"ProgramaExercicioCalcularValorDoProdutoComDescPorFaixaDeValor.png".
 Utilizando a estrutura if-else, apresente em tela o nome do produto, 
 valor original do produto e o novo valor após ser realizado o desconto.
 Caso o valor digitado seja menor que zero, deve ser emitida uma mensagem de aviso. 
 Ver exemplo de execução no arquivo 
-"ProgramaExercicioCalcularValorDoProdutoComDescontoPorFaixaDeValor.png".
+"ProgramaExercicioCalcularValorDoProdutoComDescPorFaixaDeValor.png".
 */
 
-package Java_20_ProgramaExercicioCalcularValorDoProdutoComDescontoPorFaixaDeValor;
+package Java_20_ProgramaExercicioCalcularValorDoProdutoComDescPorFaixaDeValor;
 
 import javax.swing.JOptionPane;
 
-public class ProgramaExercicioCalcularValorDoProdutoComDescontoPorFaixaDeValor {
+public class ProgramaExercicioCalcularValorDoProdutoComDescPorFaixaDeValor {
 
     public static void main(String[] args) {
 
